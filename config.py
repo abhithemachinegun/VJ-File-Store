@@ -36,9 +36,9 @@ ADMINS = int(environ.get("ADMINS", ""))
 
 # Database Information
 CLONE_DB_URI = environ.get("CLONE_DB_URI", "")
-CDB_NAME = environ.get("CDB_NAME", "cluster0")
+CDB_NAME = environ.get("CDB_NAME", "cloneee")
 DB_URI = environ.get("DB_URI", "")
-DB_NAME = environ.get("DB_NAME", "cluster1")
+DB_NAME = environ.get("DB_NAME", "Owner")
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
